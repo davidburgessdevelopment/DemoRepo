@@ -42,6 +42,8 @@
 					<?php endif;
 				?>
 				<button class="secondary-toggle"><?php _e( 'Menu and widgets', 'twentyfifteen' ); ?></button>
+<h3>Demo Repo</h3>
+
 			</div><!-- .site-branding -->
 		</header><!-- .site-header -->
 
