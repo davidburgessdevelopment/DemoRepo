@@ -1,4 +1,4 @@
 # DemoRepo
 Demo Repo
 
-This is my readme file. You should know that by now.
+This is just a demo repo while I figure out Git
